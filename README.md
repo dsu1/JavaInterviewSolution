@@ -22,3 +22,4 @@ With this in mind, extending the problem to 5 cards is easy. Simply subsitute th
 This program constructs a gui using JFrame and action listeners so the user can step through the logic that's behind the Monty Hall problem. 
 The visual demonstration for each card you pick is hard coded, meaning the same 3 Red cards are revealed for each respective card.
 A more accurate simulation of the game is ran 100,000 as stated in the program to demonstrate the odds in a more 'randomized' or 'natural' state.
+By the way, I passed the interview and received a job offer.
